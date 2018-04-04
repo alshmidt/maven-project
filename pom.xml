@@ -22,8 +22,8 @@
 		<derby.version>10.14.1.0</derby.version>
 		<activemq.version>5.15.3</activemq.version>
 		
-		<uid>ashik_apr2018</uid>
-		<pwd>Mule2015</pwd>
+		<uid>arabbani</uid>
+		<pwd>Ytkvnr_001</pwd>
 	</properties>
 
 	<build>
